@@ -1,6 +1,3 @@
-daytonaio/daytona-api
-daytonaio/daytona-proxy
-daytonaio/daytona-runner
-daytonaio/daytona-ssh-gateway
+dexidp/dex:v2.42.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
